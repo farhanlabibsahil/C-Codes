@@ -1,4 +1,4 @@
-include <stdio.h>
+#include <stdio.h>
 
 // Function to get the cofactor of A[p][q] in temp[][]
 void getCofactor(int A[10][10], int temp[10][10], int p, int q, int n) {
